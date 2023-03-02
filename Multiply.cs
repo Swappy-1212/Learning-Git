@@ -3,6 +3,6 @@ public class Sum {
     {
         int a = 4;
         int b =5;
-        System.Console.WriteLine("The difference is: " + b-a);
+        System.Console.WriteLine("The product is: " + (a*b));
     }
 }
