@@ -1,8 +1,8 @@
 public class Sum {
-    public static void main()
+    public static void main(String[] args)
     {
         int a = 4;
         int b =5;
-        Console.WriteLine(a+b);
+        System.Console.WriteLine("The sum is: " + a+b);
     }
 }
